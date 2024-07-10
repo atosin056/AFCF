@@ -36,7 +36,7 @@ For detailed documentation and user guides, please visit the [AFCF Documentation
 
 ## License
 
-This project is licensed under McGeorgeconsulting LTD.
+This project is licensed under McGeorgeConsulting LTD
 
 ## Contributing
 
