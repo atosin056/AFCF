@@ -109,6 +109,44 @@ a{
     justify-content: center;
     align-items: center;
 }
+.hover-container {
+    position: relative;
+    width: 250px;
+    height: 210px;
+}
+
+.image-wrapper {
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+}
+
+.image-wrapper img {
+    width: 100%;
+    height: 100%;
+}
+
+.hover-content {
+    width: 100%;
+    height: 100%;
+    background-color: #036572;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+.hover-container:hover .hover-content {
+   left: 0; /* Move into view when hovered */
+   opacity: 1;
+}
+.flower{
+  padding-top: 10px;
+}
 .footer{
     background-color: #036572;
     width: 100% !important;

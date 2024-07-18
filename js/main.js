@@ -45,3 +45,15 @@ var slideIndex = 0;
                 }
 
             }
+            // JavaScript to handle hover effect
+       // JavaScript to handle hover effect
+        const hoverContainer = document.getElementById('hover-container');
+        const hoverContent = document.getElementById('hover-content');
+
+        hoverContainer.addEventListener('mouseover', () => {
+            hoverContent.style.opacity = '1';
+        });
+
+        hoverContainer.addEventListener('mouseout', () => {
+            hoverContent.style.opacity = '0';
+        });
