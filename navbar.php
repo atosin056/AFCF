@@ -28,7 +28,7 @@
 
 				<li class="nav-item"><a href="faq.php" class="nav-link">FAQ</a></li>
 
-				<li class="nav-item"><a href="#" class="nav-link">Resources</a></li>
+				<li class="nav-item"><a href="resources.php" class="nav-link">Resources</a></li>
 
 			</ul>
 
