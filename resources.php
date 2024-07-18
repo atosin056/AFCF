@@ -29,9 +29,9 @@ include 'navbar.php';
 
 <!-- Code start -->
 
-<div style="width: 100% !important;background-color: transparent;padding-left: 0 !important;padding-right: 0 !important;padding-top: 100px;" class="header">
+<div style="width: 100% !important;background-color: transparent;padding-left: 0 !important;padding-right: 0 !important;padding-top: 100px;padding-bottom: 100px;height: auto;" class="header">
 	
-	<div style="margin-top: 20px;padding-left: 100px;padding-right: 100px;">
+	<div style="margin-top: 20px;padding-left: 100px;padding-right: 100px;padding-bottom: 100px;">
 		
 		<div>
 			
@@ -39,30 +39,109 @@ include 'navbar.php';
 
 		</div>
 
-		<div style="width: 100% !important;height: 100% !important;background-color: yellow;">
+		<div style="width: 100% !important;height: 100% !important;background-color: transparent;">
 			
 			<div>
 				
-				<p>Blog</p>
+				<p style="font-size: 20px;font-weight: 500">Blog</p>
 
 			</div>
 
-			<div>
+			<div style="margin-left: 20px;margin-top: 30px;">
 				
-				<div>
+				<div style="display: flex;">
 					
-					<div>
+					<div class="col-lg-5 col-sm-5 col-md-5" style="background-color: transparent;">
 						
+						<div style="display: flex;">
+
+							<div>
+								
+								<p>Operations</p>
+
+							</div>
+
+							<div style="padding-left: 10px;padding-top: 1px;">
+
+								<p style="font-size: 15px;font-weight: 200;color: #999999;">Apr 10, 2023</p>
+
+							</div>
+
+						</div>
+
+						<div>
+								
+							<div>
+									
+								<h4 style="line-height: 42px;font-family: mulish;font-size: 30px;font-weight: 700;width: 90%;color: #494949;">Central Bank of Nigeria to release 1 Billion Naira to Agricultural Sectors</h4>
+
+								<p style="margin-top: 15px;">Central Bank of Nigeria to release 1 Billion Naira to Agricultural Sectors.........</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="col-lg-6 col-sm-6 col-md-6">
 						
+						<img src="images/bg.png" style="width: 100% !important;height: 100% !important;border-bottom-right-radius: 15px;border-top-right-radius: 15px;">
+
 					</div>
 
 				</div>
+
+				<div style="display: flex;margin-top: 50px;">
+					
+					<div class="col-lg-5 col-sm-5 col-md-5" style="background-color: transparent;">
+						
+						<div style="display: flex;">
+
+							<div>
+								
+								<p>Operations</p>
+
+							</div>
+
+							<div style="padding-left: 10px;padding-top: 1px;">
+
+								<p style="font-size: 15px;font-weight: 200;color: #999999;">Apr 10, 2023</p>
+
+							</div>
+
+						</div>
+
+						<div>
+								
+							<div>
+									
+								<h4 style="line-height: 42px;font-family: mulish;font-size: 30px;font-weight: 700;width: 90%;color: #494949;">Central Bank of Nigeria to release 1 Billion Naira to Agricultural Sectors</h4>
+
+								<p style="margin-top: 15px;">Central Bank of Nigeria to release 1 Billion Naira to Agricultural Sectors.........</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="col-lg-6 col-sm-6 col-md-6">
+						
+						<img src="images/bg.png" style="width: 100% !important;height: 100% !important;border-bottom-right-radius: 15px;border-top-right-radius: 15px;">
+
+					</div>
+
+				</div>
+
+				
 
 			</div>
 
 		</div>
 
 	</div>
+
+</div>
 
 </div>
 
