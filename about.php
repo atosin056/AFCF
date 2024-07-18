@@ -1,8 +1,8 @@
-<!-- <html>
+<html>
 
 <head>
 
-	<title>AFCF - Empowering farmers with finance while bridging the gap for agricultural success.</title>
+	<title>AFCF - Empowering farmers with finance while bridging the gap for agricultural success.| About Us</title>
 
 	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
 
@@ -20,34 +20,103 @@
 
 <?php
 
-// include 'loader.php';
+include 'loader.php';
 
-// include 'navbar.php';
+include 'navbar.php';
 
 ?>
 
-<div class="header" style="width: 100% !important;height: 540px;background-image: url('images/about.png');background-repeat: no-repeat;padding: 0;">
+<div class="header" style="background-color: transparent;padding-left: 0 !important;padding-right: 0 !important;padding-top: 70px;">
+	
+	<div>
+			
+		<img src="images/guyz.png" style="width: 100% !important;">
 
-	<div class="overlay" style="width: 100%;height: 100%;background: black;opacity: 50%;z-index: 999;"></div>
+	</div>
+
+	<div class="overlays">
+		
+		<div class="text">
+			
+			We are  motivated by the mission to decrease poverty among small-scale farmers &  promote sustainable agriculture in Nigeria.
+
+		</div>
+
+	</div>
 
 </div>
 
-<br>
+<div style="background-color: transparent;width: 100% !important;height: 100% !important;">
+	
+	<div style="display: flex;padding-left: 120px;padding-right: 120px;justify-content: space-between;align-items: center;width: 100% !important;height: 100% !important;">
+		
+		<div class="col-lg-5" style="background-color: transparent;">
+			
+			<div>
+				
+				<h3>Our Mission</h3>
 
-<br>
+				<div>
+					
+					<p style="line-height: 30px;font-weight: 400;font-size: 16px;color: #494949;">Our mission at AFCF is to change agriculture in Nigeria by creating a coordinated and secure platform for farmers and stakeholders to connect. Our goal is to make it simple for farmers to obtain necessary financing and for stakeholders to engage with farmers, resulting in economic growth in the agricultural sector.</p>
 
-<br>
+				</div>
 
-<br>
+			</div>
 
-<br>
 
-<br>
-<?php
+		</div>
 
-// include 'footer.php';
+		<div class="col-lg-6" style="background-color: transparent;">
+			
+			<img src="images/gve.png" style="width: 100% !important;border-radius: 15px;">
 
-?>
+		</div>
+
+	</div>
+
+</div>
+
+<div style="width: 100%;height: auto;background-color: yellow;padding-top: 50px;padding-bottom: 50px;">
+	
+	<div>
+		
+		<div style="width: 100%;display: flex;justify-content: center;background-color: transparent;">
+			
+			<div>
+
+				<h4 style="text-align: center;">Objectives</h4>
+
+				<p>AFCF(Agricultural Finance Coordination Framework) is dedicated to bringing about positive change in the agricultural sector.</p>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div style="margin-top: 30px;">
+		
+		<div style="display: flex;justify-content: space-between;padding-left: 100px;padding-right: 100px;">
+			
+			<div class="col-lg-7" style="background-color: transparent;padding: 10px;border: 1px dashed #036572;">
+				
+				<img src="images/taboo.png" style="width: 100% !important;height: 100% !important;">
+
+			</div>
+
+			<div class="col-lg-4" style="background-color: blue;">
+				
+				T
+
+			</div>
+
+
+		</div>
+
+	</div>
+
+</div>
 
 </body>
 
@@ -55,5 +124,5 @@
 
 <script type="text/javascript" src="js/main.js"></script>
 
+</html>
 
-</html> -->

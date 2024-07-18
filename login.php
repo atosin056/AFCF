@@ -23,14 +23,13 @@
 include 'loader.php';
 
 
-
 ?>
 
 <div style="width: 100% !important;height: 100% !important;">
 	
 	<div style="width: 100%;height: 100%;display: flex;justify-content: center;align-items: center;background: transparent;">
 		
-		<div style="width: 70% !important;background: transparent;">
+		<div style="width: 50% !important;background: transparent;">
 			
 			<h4 style="text-align: center;">Sign in to your <a href="index.php" style="color: #036572;">Account</a></h4>
 
