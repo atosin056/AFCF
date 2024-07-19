@@ -42,7 +42,7 @@
 
 			</a>
 
-			<a href="#">
+			<a href="register.php">
 				
 				<button style="width: 78px;height: 39px;background-color: #036572;color: white;border-radius: 9px;border: none;font-size: 13px;">Register</button>
 

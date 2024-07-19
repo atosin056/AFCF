@@ -3,6 +3,10 @@
     padding: 0;
     font-family: poppins;
 }
+.label-for{
+    font-size: 13px;
+    color: #333333;
+}
 .card{
     font-family: montserrat !important;
     border: none !important;

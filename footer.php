@@ -77,15 +77,15 @@
 
  				<ul style="list-style-type: none;padding: 0;">
  					
- 					<li class="footer-item"><a href="#" class="footer-link">About Us</a></li>
+ 					<li class="footer-item"><a href="about.php" class="footer-link">About Us</a></li>
 
- 					<li class="footer-item"><a href="#" class="footer-link">Partners</a></li>
+ 					<li class="footer-item"><a href="partners.php" class="footer-link">Partners</a></li>
 
- 					<li class="footer-item"><a href="#" class="footer-link">News and Events</a></li>
+ 					<li class="footer-item"><a href="resources.php#news" class="footer-link">News and Events</a></li>
 
- 					<li class="footer-item"><a href="#" class="footer-link">FAQ</a></li>
+ 					<li class="footer-item"><a href="faq.php" class="footer-link">FAQ</a></li>
 
- 					<li class="footer-item"><a href="#" class="footer-link">Blog</a></li>
+ 					<li class="footer-item"><a href="resources.php#blog" class="footer-link">Blog</a></li>
 
  				</ul>
 
