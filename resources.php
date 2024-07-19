@@ -133,7 +133,7 @@ include 'navbar.php';
 
 				</div>
 
-				
+
 
 			</div>
 
@@ -144,6 +144,436 @@ include 'navbar.php';
 </div>
 
 </div>
+
+<div style="width: 100%;height: auto;background-color: #F8F8F8;padding-top: 50px;padding-bottom: 50px;">
+	
+	<div>
+		
+		<div style="width: 100%;display: flex;justify-content: center;background-color: transparent;">
+			
+			<div>
+
+				<h4 style="text-align: center;">News and Events</h4>
+
+				<p style="text-align: center;padding-top: 10px;font-size: 16px;color: #867E7E;">What's happening next</p>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div style="margin-top: 20px;">
+		
+		<div style="display: flex;justify-content: space-between;padding-left: 100px;padding-right: 100px;width: 100% !important;gap: 20px;">
+			
+			<div class="col-lg-4 col-sm-4 col-md-4 card" style="background-color: white;padding: 15px;border: none;">
+					
+				<div style="width: 100% !important;">
+					
+					<img src="images/sales.png" style="width: 100% !important;">
+
+				</div>
+
+				<div style="margin-top: 20px;">
+					
+					<p>March 09, 2023</p>
+
+					<p style="font-size: 20px;font-family: montserrat;font-weight: 600;">Attract sales and Profits</p>
+
+					<p>A job ravenously while far much that one rank beheld after outside....</p>
+
+					<a href="#">
+						
+						<p style="color: #036572;font-weight: 600;">Read More <img src="images/Vector.png"></p>
+
+					</a>
+
+				</div>
+
+			</div>
+
+			<!-- Card End -->
+
+			<div class="col-lg-4 col-sm-4 col-md-4 card" style="background-color: white;padding: 15px;border: none;">
+					
+				<div style="width: 100% !important;">
+					
+					<img src="images/cb.png" style="width: 100% !important;">
+
+				</div>
+
+				<div style="margin-top: 20px;">
+					
+					<p>March 09, 2023</p>
+
+					<p style="font-size: 20px;font-family: montserrat;font-weight: 600;">CBN to donates 1 billion naira to small scale farmers</p>
+
+					<p>CBN to donates 1 billion naira to small scale farmers</p>
+
+					<a href="#">
+						
+						<p style="color: #036572;font-weight: 600;">Read More <img src="images/Vector.png"></p>
+
+					</a>
+
+				</div>
+
+			</div>
+
+			<!-- Card End -->
+
+
+			<div class="col-lg-4 col-sm-4 col-md-4 card" style="background-color: white;padding: 15px;border: none;">
+					
+				<div style="width: 100% !important;">
+					
+					<img src="images/sales.png" style="width: 100% !important;">
+
+				</div>
+
+				<div style="margin-top: 20px;">
+					
+					<p>March 09, 2023</p>
+
+					<p style="font-size: 20px;font-family: montserrat;font-weight: 600;">CBN to donates 1 billion naira to small scale farmers</p>
+
+					<p>CBN to donates 1 billion naira to small scale farmers.</p>
+
+					<a href="#">
+						
+						<p style="color: #036572;font-weight: 600;">Read More <img src="images/Vector.png"></p>
+
+					</a>
+
+				</div>
+
+			</div>
+
+			<!-- Card End -->
+
+
+		</div>
+
+	</div>
+
+</div>
+
+<div style="width: 100% !important;height: auto;padding-bottom: 100px;background-color: white;">
+	
+	<div style="padding-top: 50px;padding-left: 100px;padding-right: 100px;">
+
+		<div style="display: flex;justify-content: center;">
+		
+			<div>
+				
+				<p style="color: #333333;font-weight: 600;font-family: montserrat;font-size: 20px;">How it works (Farmer)</p>
+
+			</div>
+
+		</div>
+
+		<div style="padding-top: 50px;">
+			
+			<div style="display: flex;justify-content: center;">
+				
+				<div style="width: 80%;">
+					
+					<img src="images/Dash.png" style="width: 100% !important;">
+
+				</div>
+
+			</div>
+
+			<div style="display: flex;justify-content: space-between;">
+					
+				<div class="col-lg-3 col-md-3 col-sm-3 farmer">
+
+					<div>
+
+						<div style="width: 100% !important;display: flex;justify-content: center;">
+							
+							<div style="width: 45px;height: 45px;background-color: transparent;">
+								
+								<img src="images/one.png" style="width: 100% !important;">
+
+							</div>
+
+						</div>
+
+						<div style="display: flex;justify-content: center;">
+
+							<div style="width: 65px;height: 65px;margin-top: 10px;">
+								
+								<img src="images/user.png" style="width: 100% !important;">	
+
+							</div>
+
+						</div>
+
+						<div style="display: flex;justify-content: center;width: 100%;background-color: transparent;">
+
+							<div style="text-align: center;">
+								
+								<h4 style="font-size: 20px;">Create Your Account</h4>
+
+								<p style="font-size: 13px;line-height: 23px;">Signup and submit the necessary documents.</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="col-lg-3 col-md-3 col-sm-3 farmer">
+
+					<div>
+
+						<div style="width: 100% !important;display: flex;justify-content: center;">
+							
+							<div style="width: 45px;height: 45px;background-color: transparent;">
+								
+								<img src="images/two.png" style="width: 100% !important;">
+
+							</div>
+
+						</div>
+
+						<div style="display: flex;justify-content: center;">
+
+							<div style="width: 65px;height: 65px;margin-top: 10px;">
+								
+								<img src="images/search.png" style="width: 100% !important;">	
+
+							</div>
+
+						</div>
+
+						<div style="display: flex;justify-content: center;width: 100%;background-color: transparent;">
+
+							<div style="text-align: center;">
+								
+								<h4 style="font-size: 20px;">Find an Anchor</h4>
+
+								<p style="font-size: 13px;line-height: 23px;">You can only access loan through an anchor. So after registering, find an anchor and submit your details to apply for loan.</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="col-lg-3 col-md-3 col-sm-3 farmer">
+
+					<div>
+
+						<div style="width: 100% !important;display: flex;justify-content: center;">
+							
+							<div style="width: 45px;height: 45px;background-color: transparent;">
+								
+								<img src="images/three.png" style="width: 100% !important;">
+
+							</div>
+
+						</div>
+
+						<div style="display: flex;justify-content: center;">
+
+							<div style="width: 65px;height: 65px;margin-top: 10px;">
+								
+								<img src="images/user.png" style="width: 100% !important;">	
+
+							</div>
+
+						</div>
+
+						<div style="display: flex;justify-content: center;width: 100%;background-color: transparent;">
+
+							<div style="text-align: center;">
+								
+								<h4 style="font-size: 20px;">Wait for approval</h4>
+
+								<p style="font-size: 13px;line-height: 23px;">After submitting necessary details, wait for approval from the anchor to get started with your loan application.</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+<div style="width: 100% !important;height: auto;padding-bottom: 100px;background-color: white;">
+	
+	<div style="padding-top: 50px;padding-left: 100px;padding-right: 100px;">
+
+		<div style="display: flex;justify-content: center;">
+		
+			<div>
+				
+				<p style="color: #333333;font-weight: 600;font-family: montserrat;font-size: 20px;">How it works(Stakeholders)</p>
+
+			</div>
+
+		</div>
+
+		<div style="padding-top: 50px;">
+			
+			<div style="display: flex;justify-content: center;">
+				
+				<div style="width: 50%;">
+					
+					<img src="images/dash2.png" style="width: 100% !important;">
+
+				</div>
+
+			</div>
+
+			<div style="display: flex;justify-content: space-around;">
+					
+				<div class="col-lg-3 col-md-3 col-sm-3 farmer">
+
+					<div>
+
+						<div style="width: 100% !important;display: flex;justify-content: center;">
+							
+							<div style="width: 45px;height: 45px;background-color: transparent;">
+								
+								<img src="images/one.png" style="width: 100% !important;">
+
+							</div>
+
+						</div>
+
+						<div style="display: flex;justify-content: center;">
+
+							<div style="width: 65px;height: 65px;margin-top: 10px;">
+								
+								<img src="images/user.png" style="width: 100% !important;">	
+
+							</div>
+
+						</div>
+
+						<div style="display: flex;justify-content: center;width: 100%;background-color: transparent;">
+
+							<div style="text-align: center;">
+								
+								<h4 style="font-size: 20px;">Create Your Account</h4>
+
+								<p style="font-size: 13px;line-height: 23px;">Signup and submit the necessary documents.</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="col-lg-3 col-md-3 col-sm-3 farmer">
+
+					<div>
+
+						<div style="width: 100% !important;display: flex;justify-content: center;">
+							
+							<div style="width: 45px;height: 45px;background-color: transparent;">
+								
+								<img src="images/two.png" style="width: 100% !important;">
+
+							</div>
+
+						</div>
+
+						<div style="display: flex;justify-content: center;">
+
+							<div style="width: 65px;height: 65px;margin-top: 10px;">
+								
+								<img src="images/pot.png" style="width: 100% !important;">	
+
+							</div>
+
+						</div>
+
+						<div style="display: flex;justify-content: center;width: 100%;background-color: transparent;">
+
+							<div style="text-align: center;">
+								
+								<h4 style="font-size: 20px;">Monitor and Evaluate</h4>
+
+								<p style="font-size: 13px;line-height: 23px;">Tracking the number of loans disbursed, the amount of finance provided, </p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<!-- <div class="col-lg-3 col-md-3 col-sm-3 farmer">
+
+					<div>
+
+						<div style="width: 100% !important;display: flex;justify-content: center;">
+							
+							<div style="width: 45px;height: 45px;background-color: transparent;">
+								
+								<img src="images/three.png" style="width: 100% !important;">
+
+							</div>
+
+						</div>
+
+						<div style="display: flex;justify-content: center;">
+
+							<div style="width: 65px;height: 65px;margin-top: 10px;">
+								
+								<img src="images/user.png" style="width: 100% !important;">	
+
+							</div>
+
+						</div>
+
+						<div style="display: flex;justify-content: center;width: 100%;background-color: transparent;">
+
+							<div style="text-align: center;">
+								
+								<h4 style="font-size: 20px;">Wait for approval</h4>
+
+								<p style="font-size: 13px;line-height: 23px;">After submitting necessary details, wait for approval from the anchor to get started with your loan application.</p>
+
+							</div>
+
+						</div> -->
+<!-- 
+					</div>
+
+				</div> -->
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+<!-- </div>
+
+</div> -->
 
 <?php
 

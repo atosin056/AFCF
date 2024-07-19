@@ -3,7 +3,10 @@
     padding: 0;
     font-family: poppins;
 }
-
+.card{
+    font-family: montserrat !important;
+    border: none !important;
+}
 .overlays{
   background: rgba(0, 0, 0, 0.5);
   height: 73%;
@@ -16,6 +19,18 @@
   justify-content: center;
   align-items: center;
 /*  opacity: 70%;*/
+}
+.farmer{
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #e8e8e8;
+}
+.farmer:hover{
+    border-bottom: 10px solid #036572;
 }
 .text{
   color: white;
