@@ -22,9 +22,9 @@
 
 				<li class="nav-item"><a href="partners.php" class="nav-link">Partners</a></li>
 
-				<li class="nav-item"><a href="#" class="nav-link">Blog</a></li>
+				<li class="nav-item"><a href="resources.php#blog" class="nav-link">Blog</a></li>
 
-				<li class="nav-item"><a href="#" class="nav-link">News & Events</a></li>
+				<li class="nav-item"><a href="resources.php#news" class="nav-link">News & Events</a></li>
 
 				<li class="nav-item"><a href="faq.php" class="nav-link">FAQ</a></li>
 

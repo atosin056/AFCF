@@ -29,7 +29,7 @@ include 'navbar.php';
 
 <!-- Code start -->
 
-<div style="width: 100% !important;background-color: transparent;padding-left: 0 !important;padding-right: 0 !important;padding-top: 100px;padding-bottom: 100px;height: auto;" class="header">
+<div style="width: 100% !important;background-color: transparent;padding-left: 0 !important;padding-right: 0 !important;padding-top: 100px;padding-bottom: 100px;height: auto;" class="header" id="blog">
 	
 	<div style="margin-top: 20px;padding-left: 100px;padding-right: 100px;padding-bottom: 100px;">
 		
@@ -145,7 +145,7 @@ include 'navbar.php';
 
 </div>
 
-<div style="width: 100%;height: auto;background-color: #F8F8F8;padding-top: 50px;padding-bottom: 50px;">
+<div style="width: 100%;height: auto;background-color: #F8F8F8;padding-top: 50px;padding-bottom: 50px;" id="news">
 	
 	<div>
 		
